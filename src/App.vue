@@ -5,11 +5,7 @@
       <div class="container mx-auto px-4 py-3 flex justify-between items-center">
         <div class="flex items-center gap-3">
           <div class="relative w-10 h-10 overflow-hidden rounded-full border-2 border-teal-500">
-            <img
-              src="/src/cv.png"
-              alt="Hawre"
-              class="w-full h-full object-cover"
-            />
+            <img src="/src/cv.png" alt="Hawre" class="w-full h-full object-cover" />
           </div>
           <h1 class="text-xl font-bold text-teal-600">Hawre</h1>
         </div>
@@ -122,11 +118,7 @@
               <div
                 class="relative w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-lg mb-4"
               >
-                <img
-                  src="/src/cv.png"
-                  alt="Hawre"
-                  class="w-full h-full object-cover"
-                />
+                <img src="/src/cv.png" alt="Hawre" class="w-full h-full object-cover" />
               </div>
               <h2 class="text-2xl font-bold text-white text-center">Hawre Kamil</h2>
               <p class="text-teal-100 text-center mt-2">Computer Science Graduate</p>
