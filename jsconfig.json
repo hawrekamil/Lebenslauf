@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "@vitejs/plugin-vue": ["./node_modules/@vitejs/plugin-vue"]
+    },
+    "moduleResolution": "nodenext",
+    "module": "nodenext",
+    // ... other options ...
+  },
+  "exclude": ["node_modules", "dist"]
+}
